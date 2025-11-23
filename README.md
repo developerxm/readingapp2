@@ -1,3 +1,5 @@
+# This project is meant to help improve reading, and literacy skills among english readers. 54% of americans are functionally illiterate, meaning most people don't read, or comprhend above a 6th grade level. This is to 'gameify' reading, and bring back the joy of learning. 
+
 # Antigravity Literacy App
 
 A mobile application built with Expo and React Native to help users improve their reading and literacy skills.
